@@ -1,0 +1,48 @@
+table {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 90%;
+  border-collapse: collapse;
+  margin-left: 5%;
+}
+
+td,
+th {
+  text-align: center;
+}
+
+th {
+  height: 80px;
+  border-top: #b81c1c 3px solid;
+  border-bottom:#b81c1c 3px solid;
+  background-image: url('/img/darkdirtypaper.jpg');
+}
+
+td {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-bottom: solid 2px #2f2f2f;
+}
+
+.cart-header {
+  padding-top: 20px;
+  padding-left: 5%;
+  padding-bottom: 20px;
+}
+
+.cart-table-header {
+  font-size: x-large;
+}
+
+.cart-table-img {
+  max-width: 250px;
+  height: auto;
+  border: 2px #2f2f2f solid;
+}
+
+.cart-bt-heads{
+  text-align: right;
+  padding-top: 10%;
+  padding-right: 10%;
+  padding-bottom: 10%;
+}

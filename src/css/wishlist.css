@@ -1,0 +1,18 @@
+.wishlist-header {
+  padding-top: 20px;
+  padding-left: 5%;
+  margin-top: 10px;
+}
+
+.wishlist-table-header {
+  height: 40px;
+  padding-top: 10px;
+  font-size: x-large;
+}
+
+.wishlist-table-img {
+  max-width: 250px;
+  height: auto;
+  border: 2px #2f2f2f solid;
+  margin-top: 10px;
+}

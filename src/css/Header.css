@@ -1,0 +1,33 @@
+.header {
+  font-family: "Special Elite", cursive;
+  color: #2f2f2f;
+
+  background-color: #b81c1c;
+
+  display: flex;
+  justify-content: space-between;
+  width: 100vw;
+  padding-top: 8px;
+  border-bottom: solid 3px #121212;
+  border-top: solid 3px #121212;
+}
+
+.heading {
+  text-decoration: none;
+  color: #2f2f2f;
+
+  padding-top: 5px;
+  padding-left: 10px;
+}
+
+.heading-icon {
+  height: 40px;
+  width: auto;
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
+
+.sign-cart-status-container{
+  display: flex;
+  align-items: center;
+}

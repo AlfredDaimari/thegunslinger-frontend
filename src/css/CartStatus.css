@@ -1,0 +1,17 @@
+.cartStatus {
+  text-decoration: none;
+  color: navajowhite;
+
+  display: flex;
+  justify-items: center;
+  align-items: center;
+
+  height: 36px;
+  margin: 3px;
+  margin-right: 5vw;
+}
+
+.cart-icon {
+  height: 40px;
+  width: 40px;
+}

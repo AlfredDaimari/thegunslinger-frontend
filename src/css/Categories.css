@@ -1,0 +1,45 @@
+input[type="search"] {
+  font-family: "Special Elite", cursive;
+  font-size: 25px;
+  outline: none;
+
+  position: relative;
+  left: 5vw;
+  width: 90vw;
+  height: 45px;
+  background-color: transparent;
+  border-bottom: solid 3px #2f2f2f;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+.categories {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 3px solid #121212;
+  background-image: url("/img/dirtypaper.jpg");
+}
+
+.recoms:hover {
+  cursor: pointer;
+  color: #b81c1c;
+
+  width: 90vw;
+  background-image: url("/img/darkdirtypaper.jpg");
+}
+
+#searchbar {
+  width: 100vw;
+  background-image: url("/img/dirtypaper.jpg");
+}
+
+#recommendations {
+  font-family: "Special Elite", cursive;
+  color: #121212;
+
+  position: relative;
+  left: 5vw;
+  margin-top: 12px;
+}

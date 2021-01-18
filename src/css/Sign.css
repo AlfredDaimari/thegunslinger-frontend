@@ -1,0 +1,97 @@
+.back {
+  background-image: url("/img/sign.jpg");
+  width: 100vw;
+  min-height: 100vh;
+}
+
+.sign-p {
+  text-align: center;
+  font-size: 22px;
+  text-decoration: none;
+  color: #b81c1c;
+}
+
+.invalid-p {
+  text-align: center;
+  font-size: 22px;
+  text-decoration: none;
+  color: #b81c1c;
+}
+
+.box {
+  opacity: 0.9;
+  background-image: url("/img/dirtypaper.jpg");
+  width: 400px;
+  border-radius: 5%;
+  padding: 30px 0px 70px 0px;
+  border: #b81c1c 4px solid;
+  position: absolute;
+  top: 10%;
+  left: 35%;
+}
+.box:hover {
+  opacity: 1;
+}
+
+.field {
+  background: #ecf0f1;
+  border: #ccc 1px solid;
+  border-bottom: #ccc 2px solid;
+  padding: 8px;
+  width: 250px;
+  color: #aaaaaa;
+  margin-top: 10px;
+  margin-left: 60px;
+  font-size: 1em;
+  border-radius: 4px;
+}
+
+input[type=text], select {
+  background: #ecf0f1;
+  border: #ccc 1px solid;
+  border-bottom: #ccc 2px solid;
+  padding: 8px;
+  width: 270px;
+  color: #aaaaaa;
+  margin-top: 10px;
+  margin-left: 60px;
+  font-size: 1em;
+  border-radius: 4px;
+}
+
+.btn {
+  background: #b81c1c;
+  width: 270px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  border-radius: 4px;
+  border: #27ae60 1px solid;
+  text-align: center;
+  margin-left: 60px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  text-align: center;
+  font-weight: 800;
+  font-size: 1em;
+}
+
+.btn:hover {
+  background: #8a1616;
+}
+.pad {
+  padding-top: 20px;
+}
+
+.btn2 {
+  background: transparent;
+  width: 270px;
+  padding-top: 2px;
+  padding-bottom: 0px;
+  text-align: center;
+  margin-left: 60px;
+  margin-top: 5px;
+  float: left;
+  font-weight: 800;
+  font-size: 1em;
+}

@@ -1,0 +1,8 @@
+.cat-img {
+  width: 100vw;
+  height: 100%;
+}
+
+.products {
+  background-image: url("/img/dirtypaper.jpg");
+}

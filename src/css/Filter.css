@@ -1,0 +1,62 @@
+.filter {
+  font-family: "Special Elite", cursive;
+
+  background-image: url("/img/darkdirtypaper.jpg");
+
+  min-width: 200px;
+  height: 100%;
+  margin: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-top: #2f2f2f 3px solid;
+  border-bottom: #2f2f2f 3px solid;
+}
+
+.filcat {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.fil-header {
+  color: #2f2f2f;
+  padding-left: 10px;
+  border-bottom: 2px solid #2f2f2f;
+}
+
+.fil-btn-cont {
+  padding-left: 10px;
+}
+
+.fil-btn {
+  font-family: "Special Elite", cursive;
+  font-size: 15px;
+  color: #2f2f2f;
+  text-align: start;
+  background-color: transparent;
+
+  width: 150px;
+  border-style: none;
+  margin-bottom: 2px;
+  margin-top: 2px;
+  outline-style: none;
+}
+
+.fil-btn-active {
+  font-family: "Special Elite", cursive;
+  font-size: 15px;
+  font-weight: bolder;
+  color: #b81c1c;
+  text-align: start;
+  background-image: url("/img/dirtypaper.jpg");
+
+  width: 150px;
+  border-style: none;
+  margin-bottom: 2px;
+  margin-top: 2px;
+  outline-style: none;
+}
+
+.filheading {
+  color: #2f2f2f;
+  padding-left: 10px;
+}
